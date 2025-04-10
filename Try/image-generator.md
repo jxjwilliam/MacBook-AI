@@ -1,4 +1,3 @@
-
 ### URL
 
 [onrender](https://agi-image-checkout-demo-front-end.onrender.com/generate)
@@ -9,7 +8,6 @@
 2. 预览会显示在右侧，点击 Checkout 发起支付流程
 3. 测试支付：卡号输入 4242 4242 4242 4242，Expiry date 输入任意未来的 MM/YY，cvc 输入任意三位数字
 4. 完成支付后跳转回 Success page，可以下载图片
-
 
 ### Requirements
 
@@ -34,13 +32,7 @@
 `43.135.142.221`:  root/dong1@3$
 
 
-## API
-
-### Shopify
-
 ### Wordpress
-
-### Stripe
 
 ### runpod
 
@@ -58,3 +50,19 @@
 ### seaart.ai
 
 另外一个是正式的项目：https://www.seaart.ai/zhCN  客户想做一个极简版的类似平台；只包含注册，付款，发布流程应用几个功能，界面也简洁就客户。你估算一个工期；
+
+
+
+| api | notes |
+| --- | --- |
+| /api/generate | |
+| /api/checkout | |
+| /api/download/id | |
+| /api/profile | |
+| /api/gallery | |
+| /api/auth | ? |
+| /api/ | ?? |
+| | |
+
+
+### Cryptocurrency

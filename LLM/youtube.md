@@ -46,8 +46,22 @@ MAX_PROBABILITY = 1
 
 youtube URL -> hf/spaces: openai/whisper 生成文本 -> Anthropic Claude.ai 翻译 (ChatGPT 总结)
 
-## 🥃 
+## 🥃 Shorts
+
+
+截图 - 提示词反推工具（JoyCaption Pre-Alpha (2024-07-30a) - ChatGPT|Deepseek 分析 - 提示词改写 - 端脑云 ComfyUI Flux （文生图）
+
+视频语言翻译（含对口型）：
+
+- 💎 Heygen：https://bit.ly/Hey-Gen
+- 💎 Rask.AI：https://bit.ly/xRaskAI
+- 💎 Elevenlabs：https://bit.ly/11elevenlabs
 
 ## 🥃 
+
+- 多账号运营
+- 单账户增量
+- ypp标准
+- 
 
 ## 🥃 
