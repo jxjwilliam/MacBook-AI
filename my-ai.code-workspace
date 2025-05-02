@@ -5,6 +5,15 @@
 		},
 		{
 			"path": "../my-docs"
+		},
+		{
+			"path": "../my-etc"
+		},
+		{
+			"path": "../my-experiments/shopify/shopify-docs"
+		},
+		{
+			"path": "../my-experiments/image-generator-poc/img-docs"
 		}
 	],
 	"settings": {}

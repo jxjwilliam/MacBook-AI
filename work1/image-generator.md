@@ -52,7 +52,7 @@
 
 | api | notes |
 | --- | --- |
-| /api/generate | |
+| /api/generate | api/generate/route.js |
 | /api/checkout | |
 | /api/download/id | |
 | /api/profile | |
