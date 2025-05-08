@@ -1,18 +1,23 @@
 {
 	"folders": [
 		{
+			"name": "my-AI",
 			"path": "."
 		},
 		{
+			"name": "my-config",
+			"path": "../my-config"
+		},
+		{
+			"name": "my-docs",
 			"path": "../my-docs"
 		},
 		{
-			"path": "../my-etc"
-		},
-		{
+			"name": "shopify-docs",
 			"path": "../my-experiments/shopify/shopify-docs"
 		},
 		{
+			"name": "img-docs",
 			"path": "../my-experiments/image-generator-poc/img-docs"
 		}
 	],

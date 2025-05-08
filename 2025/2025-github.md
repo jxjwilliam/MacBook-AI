@@ -19,3 +19,10 @@
 | [Gatsby](https://github.com/gatsbyjs/gatsby) | A React-based framework for building fast websites. |
 | [Prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js and TypeScript. |
 | [Rustdesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop software for secure and fast access. |
+
+
+## Supabase 
+
+- Supabase is a PostgreSQL hosting service and open source Firebase alternative… which can be accessed directly using Prisma ORM.
+- Supabase Client allows direct access to SQL and PostgreSQL features. Prisma serves as an ORM, abstracting database interactions.
+
