@@ -48,8 +48,6 @@
 
 另外一个是正式的项目：https://www.seaart.ai/zhCN  客户想做一个极简版的类似平台；只包含注册，付款，发布流程应用几个功能，界面也简洁就客户。你估算一个工期；
 
-
-
 | api | notes |
 | --- | --- |
 | /api/generate | api/generate/route.js |
