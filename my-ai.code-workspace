@@ -5,20 +5,7 @@
 			"path": "."
 		},
 		{
-			"name": "my-config",
-			"path": "../my-config"
-		},
-		{
-			"name": "my-docs",
-			"path": "../my-docs"
-		},
-		{
-			"name": "shopify-docs",
-			"path": "../my-experiments/shopify/shopify-docs"
-		},
-		{
-			"name": "img-docs",
-			"path": "../my-experiments/image-generator-poc/img-docs"
+			"path": "../my-playgrounds/docs"
 		}
 	],
 	"settings": {}
