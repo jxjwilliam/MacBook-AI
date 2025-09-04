@@ -36,11 +36,7 @@
 
 MAX_PROBABILITY = 1
 
-## 🥃 
-
 ## 🥃 开通 ypp 
-
-## 🥃 
 
 ## 🥃 Youtube 内容总结
 
@@ -62,6 +58,3 @@ youtube URL -> hf/spaces: openai/whisper 生成文本 -> Anthropic Claude.ai 翻
 - 多账号运营
 - 单账户增量
 - ypp标准
-- 
-
-## 🥃 
