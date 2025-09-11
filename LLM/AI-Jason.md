@@ -25,12 +25,6 @@ Explanation:
 - Boosted reasoning, CoT: Chain of thoughts
 - Reliable Agentic workflow
 
-### 🥃 System Prompt
-
-```text
-You are an expert at structured data extraction. You will be given unstructured text from a research paper and should convert it into the given structure.
-```
-
 ## 🍒🍒 Train Your own GPT
 
 How to handle LLM token limits (4096) ?
