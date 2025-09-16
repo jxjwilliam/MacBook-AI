@@ -6,6 +6,9 @@
 		},
 		{
 			"path": "../my-playgrounds/docs"
+		},
+		{
+			"path": "../my-docs"
 		}
 	],
 	"settings": {}
