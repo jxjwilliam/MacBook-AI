@@ -1,3 +1,5 @@
+## 🍒 Whats THSES
+
 | Name                       | Description |
 |----------------------------|-------------|
 | [Llama](https://github.com/meta-llama/llama3) | Meta's Llama project focusing on advanced AI language models. |
@@ -20,3 +22,32 @@
 | [Prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js and TypeScript. |
 | [Rustdesk](https://github.com/rustdesk/rustdesk) | Open-source remote desktop software for secure and fast access. |
 
+
+## 🍑 several github repos
+
+- awesome-claude-code
+- shadcn-ui-mcp-server
+- git-mcp
+- **mcp_use**
+
+## 🥭
+
+## 🍍
+
+## 🥥
+
+## 🥝
+
+## 🍅
+
+## 🍆
+
+## 🍍
+
+## 🥥
+
+## 🥝
+
+## 🍅
+
+## 🍆

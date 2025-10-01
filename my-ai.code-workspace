@@ -5,10 +5,16 @@
 			"path": "."
 		},
 		{
-			"path": "../my-playgrounds/docs"
+			"path": "../my-docs"
 		},
 		{
-			"path": "../my-docs"
+			"path": "../my-work"
+		},
+		{
+			"path": "../my-playgrounds/mp-docs"
+		},
+		{
+			"path": "../my-experiments/me-docs"
 		}
 	],
 	"settings": {}
