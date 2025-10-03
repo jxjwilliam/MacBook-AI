@@ -9,7 +9,7 @@ uses chain of thought reasoning, reinforcement learning, and expert architecture
 - **Supervised FineTuning** (SFT)
 - Distilled models: Llama, Qwen
 - model translation: from MoE(R1-zero) to tranditional transfomer (Llama).
-- MoE
+- MoE (Mixture of Experts)
 - Multi-head latent Attention
 - R1 built on top of R1-Zero
 
@@ -17,7 +17,7 @@ uses chain of thought reasoning, reinforcement learning, and expert architecture
 
 Reinforcement Learning from Human Feedback (RLHF) is a machine learning technique that trains an AI agent using direct human feedback to optimize its performance
 
-## V3
+## DS V3
 
 `git clone https://huggingface.co/deepseek-ai/DeepSeek-V3-Base`
 
