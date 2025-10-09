@@ -30,8 +30,6 @@
  5. Uploading the model to Hugging Face & Ollama 🛠️
 
 
-## 🥃 NotebookLM
-
 ## 🥃 ROOP (审查机制)
 
 MAX_PROBABILITY = 1

@@ -8,7 +8,7 @@
 
 用处理过的头像，处理过的声音，生成视频
 
-### 🥃 iOS, Android 应用
+### 🥃 Expo Go: iOS, Android 应用
 
 ### 🥃 声音转图像的mobile应用
 

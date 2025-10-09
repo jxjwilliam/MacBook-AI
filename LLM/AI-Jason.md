@@ -145,6 +145,29 @@ You will be using NextJS 14, shadcn, tailwind CSS, Lucid icon
 
 ## 🍒🍒 
 
+```mermaid
+
+graph TD
+    subgraph Claude code
+    A[System instruction]:::blue
+    B[System tools]:::blue
+    C[CLAUDE.md]:::blue
+    D[MCP]:::blue
+    E[User message]:::green
+    end
+
+    style A fill:#D0E0FF,stroke:#333
+    style B fill:#D0E0FF,stroke:#333
+    style C fill:#D0E0FF,stroke:#333
+    style D fill:#D0E0FF,stroke:#333
+    style E fill:#D0FFD0,stroke:#333
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+```
+
 ## 🍒🍒 
 
 ## 🍒🍒 
