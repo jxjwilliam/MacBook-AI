@@ -25,7 +25,6 @@
 - ChatGPT
 - Claude Sonnet
 - Perplexity
-- Gemini
 - Mistral
 - Llama 3.2
 
